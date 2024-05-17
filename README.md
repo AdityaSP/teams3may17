@@ -1,14 +1,8 @@
-# Welcome to your CDK TypeScript project
+# Welcome to building through a L3 construct example
 
-This is a blank project for CDK development with TypeScript.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+# Commands to install new L3 Construct
+* `npm install s3withalert@0.2.0` Installs a specific version
 
-## Useful commands
+Check package.json after the installation to make sure the right version is included.
 
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `npx cdk deploy`  deploy this stack to your default AWS account/region
-* `npx cdk diff`    compare deployed stack with current state
-* `npx cdk synth`   emits the synthesized CloudFormation template
